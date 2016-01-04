@@ -1,0 +1,18 @@
+fr:
+  formtastic:
+    labels:
+      topic:
+        name: 'Votre Sujet'
+        proposal_type: 'Type de proposition'
+        description: 'Description'
+      user:
+        hide_jobs: 'cacher Emplois'
+        available: 'en recherche d'emploi / projets'
+        description: 'Description'
+    placeholders:
+      github: 'login GitHub'
+    actions:
+      topic:
+        create: 'ajouter'
+      user:
+        update: 'mettre à jour'
